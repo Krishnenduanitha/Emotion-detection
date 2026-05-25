@@ -1,0 +1,17 @@
+# Deep Learning
+torch
+torchaudio
+
+# Audio Processing
+librosa
+soundfile
+
+# Data Manipulation & Metrics
+numpy
+pandas
+scikit-learn
+tqdm
+
+# Visualization
+matplotlib
+seaborn
