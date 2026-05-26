@@ -1,0 +1,16 @@
+# --- Core Data Processing ---
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.2
+
+# --- Text Model (Keras/TensorFlow) ---
+tensorflow>=2.8.0
+
+# --- Speech & Multimodal Fusion (PyTorch) ---
+torch>=1.11.0
+torchaudio>=0.11.0
+librosa>=0.9.1
+
+# --- Visualizations & Reporting ---
+matplotlib>=3.5.1
+seaborn>=0.11.2
