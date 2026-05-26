@@ -1,0 +1,41 @@
+SPEECH ONLY MODEL
+          precision    recall  f1-score   support
+angry        1.00      0.99      1.00       142
+disgust      1.00      1.00      1.00       165
+fear         1.00      1.00      1.00       161
+happy        1.00      1.00      1.00       145
+neutral      1.00      1.00      1.00       152
+sad          0.00      0.00      0.00       185
+surprise     0.00      0.00      0.00       170
+surprised    0.00      0.00      0.00         0
+accuracy                         0.68      1120
+macro avg    0.62      0.62      0.62      1120
+weighted avg 0.68      0.68      0.68      1120
+
+TEXT ONLY MODEL
+                 precision    recall  f1-score   support
+ angry             0.00      0.00      0.00       142
+ disgust           0.00      0.00      0.00       165
+ fear              0.00      0.00      0.00       161
+ happy             0.13      1.00      0.23       145
+ neutral           0.00      0.00      0.00       152
+ ps                0.00      0.00      0.00       185
+ sad               0.00      0.00      0.00       170
+ accuracy                              0.13      1120
+ macro avg         0.02      0.14      0.03      1120
+ weighted avg      0.02      0.13      0.03      1120  
+
+FUSION MODEL
+                precision    recall  f1-score   support
+ angry            0.00      0.00      0.00       142
+ disgust          0.00      0.00      0.00       165
+ fear             0.00      0.00      0.00       161
+ happy            0.00      0.00      0.00       145
+ neutral          0.14      1.00      0.24       152
+ ps               0.00      0.00      0.00       185
+ sad              0.00      0.00      0.00       170
+ accuracy                             0.14      1120
+ macro avg        0.02      0.14      0.03      1120
+ weighted avg     0.02      0.14      0.03      1120
+
+
