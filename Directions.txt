@@ -1,0 +1,3 @@
+To execute
+1. Downlod the required dataset and upload it to drive and mount it to the colab environment .
+2. in a colab notebook run each file in the project folder one by one .
